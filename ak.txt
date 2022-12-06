@@ -1,1 +1,3 @@
 Hi I am new to Git
+hi friends
+i am mustya
